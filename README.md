@@ -17,7 +17,7 @@ I'm a Computer Engineering student who is curious about technology and always ea
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nisack16&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nisack16&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nisack16&icon=7&color=0)](https://visitcount.itsvg.in)
