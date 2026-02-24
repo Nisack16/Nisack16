@@ -1,4 +1,4 @@
-## Hi, I'm Nisa
+## Hi, I'm Nisa✨
 
 
 I'm a Computer Engineering student who is curious about technology and always eager to learn new things. Alongside my studies, I work as a working student, where I gain practical experience and improve my professional skills.<br>I'm still exploring different areas within tech and continuously building my knowledge step by step. I enjoy solving problems, understanding how systems work, and developing myself both technically and personally.<br>Currently, I'm focused on growing my skills, gaining experience, and learning something new every day.
@@ -13,8 +13,6 @@ I'm a Computer Engineering student who is curious about technology and always ea
 ![](https://nirzak-streak-stats.vercel.app/?user=Nisack16&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisack16&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nisack16&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
